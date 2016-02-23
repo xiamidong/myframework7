@@ -2,4 +2,4 @@
 my first framework test
 
 
-I want to learn more node.js
+I want to learn more framework7
